@@ -1,0 +1,19 @@
+{
+    "links": [
+        {
+            "id": 1,
+            "title": "Apple Homepage",
+            "link": "http://apple.com"
+        },
+        {
+            "id": 2,
+            "title": "Paul Graham Essays",
+            "link": "http://paulgraham.com/articles.html"
+        },
+        {
+            "id": 3,
+            "title": "LeetCode",
+            "link": "https://leetcode.com/"
+        }
+    ]
+}

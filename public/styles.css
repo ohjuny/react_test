@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #008bfd;
+    padding: 20px;
+    text-align: center;
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #d4b60c;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+.links {
+    padding: 40px;
+}
+
+.link {
+    border-bottom: 1px solid #c7c7c7;
+    padding: 30px 0px 10px 10px;
+}
+
+.link .title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.link a {
+    text-decoration: none;
+    color: inherit;
+}
